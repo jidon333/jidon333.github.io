@@ -7,4 +7,4 @@ title: This is my first post
 
 ㅋ
 
-![Thinking cat!]({{ site.url }}/assets/img/ThinkingCat.jpg)
+![Thinking cat!]({{ www.google.com }}/assets/img/ThinkingCat.jpg)
