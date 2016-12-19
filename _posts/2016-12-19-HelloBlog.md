@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passing Arguments in Shell Script
+title: Hello Blog
 ---
 
 **TL;DR** Just skip to the [good part](#the-good-part)
