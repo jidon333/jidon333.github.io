@@ -2,10 +2,10 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Hello. My name is jidon333. 
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+I make vedio game! and for now I'm newb programmer! [Github](https://github.com/jidon333).
 
 # What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+Usually I use c/c++. And I have interest in c# and python language!
