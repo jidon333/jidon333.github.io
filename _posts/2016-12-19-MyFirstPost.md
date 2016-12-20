@@ -46,7 +46,7 @@ Assets folder에 직접 넣고 경로를 지정해준다.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 /*
 var disqus_config = function () {
-this.page.url = jidon333;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.url = jidon333.github.io;  // Replace PAGE_URL with your page's canonical URL variable
 this.page.identifier = jidon333; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
