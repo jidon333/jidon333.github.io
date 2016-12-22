@@ -1,5 +1,6 @@
 # Blog settings
 permalink: /blog/:title
+disqus: jidon333
 
 
 # My variables
@@ -26,4 +27,3 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 
-disqus: jidon333
