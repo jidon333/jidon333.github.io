@@ -1,7 +1,6 @@
 # Blog settings
 permalink: /blog/:title
 disqus: jidon333
-baseurl: /jidon333.github.io
 
 # My variables
 name: jidon333

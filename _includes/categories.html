@@ -11,10 +11,10 @@ If just write "/", It's mean the root directory of _site
         <ul class = "lists">
             
         <li>
-            <a href="{{ site.baseurl }}/PostCategories/AllPosts">All Posts</a>
+            <a href="/PostCategories/AllPosts">All Posts</a>
         </li>
 {% for item in site.data.categories %}
-             <li><a href = "{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+             <li><a href = "{{ item.url }}">{{ item.name }}</a></li>
 {% endfor %}         
         </ol>
 
