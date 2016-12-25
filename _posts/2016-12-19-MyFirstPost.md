@@ -1,9 +1,8 @@
 ---
 layout: post
 title: This is my first post Cool!
-categories: [TestCate]
+categories: CPP
 comments: true
-tags: [TestTag]
 ---
 
 # Hello My first post
