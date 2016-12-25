@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Blog
-categories: CPP
+categories: Math
 ---
 
 **TL;DR** Just skip to the [good part](#the-good-part)

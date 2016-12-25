@@ -1,0 +1,27 @@
+- name: C/C++
+  cate: C_CPP
+  url: /PostCategories/C_CPP
+
+- name: Design Pattern
+  cate: Design_Pattern
+  url: /PostCategories/DesignPattern
+
+- name: Computer Graphics
+  cate: Computer_Graphics
+  url: /PostCategories/ComputerGraphics
+
+- name: Math
+  cate: Math
+  url: /PostCategories/Math
+
+- name: Linear Algebra
+  cate: Linear_Algebra
+  url: /PostCategories/LinearAlgebra
+
+- name: Dev Tips
+  cate: Dev_Tips
+  url: /PostCategories/DevTips
+
+- name: Etc
+  cate: Etc
+  url: /PostCategories/Etc

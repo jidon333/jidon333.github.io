@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merry christhmas world!
-categories: Math
+categories: Computer_Graphics
 comments: true
 ---
 

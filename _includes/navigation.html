@@ -1,0 +1,18 @@
+
+<!--
+/me/ and /me/index.html is exactly same thing. 
+If just write "/", It's mean the root directory of _site
+-->
+
+<div class="header">
+    <h1>{{ site.name }}</h1>
+    <ul>
+        
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+
+    </ul>
+</div> 

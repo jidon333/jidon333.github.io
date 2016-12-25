@@ -9,13 +9,13 @@ If just write "/", It's mean the root directory of _site
 
         <h1> Categories </h1>
         <ul class = "lists">
-            <li><a href = "/">All</a></li>
-            <li><a href = "/">Design pattern</a></li>
-            <li><a href = "/">Computer Graphics</a></li>
-            <li><a href = "/">Math</a></li>
-            <li><a href = "/">Linear Algebra</a></li>
-            <li><a href = "/">Dev Tips</a></li>
-            <li><a href = "/">etc</a></li>
+            
+        <li>
+            <a href="{{ site.baseurl }}/PostCategories/All">All Posts</a>
+        </li>
+{% for item in site.data.categories %}
+             <li><a href = "{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+{% endfor %}         
         </ol>
 
     </nav>
