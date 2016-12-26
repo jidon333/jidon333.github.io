@@ -25,4 +25,3 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-
