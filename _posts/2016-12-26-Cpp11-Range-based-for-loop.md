@@ -31,7 +31,8 @@ for (int i : {2, 5, 8, 99, 40, 21})
 ``` cpp
 int num[5]{1, 2, 3, 4, 5};
  
-    for (int i : num)              //num이라는 배열을 돌면서 int형 데이터를 꺼내줘!
+//num이라는 배열을 돌면서 int형 데이터를 꺼내줘!
+    for (int i : num)              
         cout << i << " ";
 ```
 
@@ -40,7 +41,8 @@ int num[5]{1, 2, 3, 4, 5};
 ```cpp
 std::vector<double> vec{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
  
-    for (double& elem : vec)   // for문의 내부에서 vec요소의 복사본을 가지고 동작하지 않도록 레퍼런스 사용
+// for문의 내부에서 vec요소의 복사본을 가지고 동작하지 않도록 레퍼런스 사용
+    for (double& elem : vec)   
         elem += 1; 
 ```
 
