@@ -131,4 +131,5 @@ int main()
 ```
 
 ![Initializer_res](/assets/img/Initializer_res.png)
+![Thinking Cat](/assets/img/ThinkingCat.jpg)
 
