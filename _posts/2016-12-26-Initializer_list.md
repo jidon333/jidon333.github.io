@@ -130,6 +130,6 @@ int main()
 
 ```
 
-![initializer_res](/assets/img/Initializer_res.png)
+![initializer_res](/assets/img/initializer_res.png)
 ![Thinking Cat](/assets/img/ThinkingCat.jpg)
 
