@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Passing a temporary object and compiler optimization(Ko)
+title: Passing a temporary object and compiler optimization
 categories: C_CPP
 comments: true
+language: ko
 ---
 
 임시객체를 매개변수로 전달하는 여러 가지 경우에 대해서 생각해보다가 신기한 사실을 알게 되었다.

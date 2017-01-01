@@ -18,6 +18,13 @@ layout: default
     <div class="post__content"?>
         {{ content }}
     </div>
+
+
+<!--If there's a variable 'language' in the front matter then add mata data.-->
+    {% if page.language %}
+         <meta name="language" content="{{ page.language }}">
+    {% endif %}
+
 </div>
 
 

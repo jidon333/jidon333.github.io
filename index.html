@@ -8,12 +8,14 @@ layout: default
  <!-- Categories -->
 {% include categories.html %}
 
+
+
 <div class="blog">
     <h1>Recent Posts:</h1>
     <ul>
         {% for post in site.posts limit:10 %}
         <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+            {% include postInfo.html %}
         </li>
         {% endfor %}
     </ul>

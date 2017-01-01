@@ -1,8 +1,9 @@
 ---
 layout: post
-title: C++11 Range based for loop(ko)
+title: C++11 Range based for loop
 categories: C_CPP
 comments: true
+language: ko
 ---
 
 C++11 에서는 다른 프로그래밍 언어에서는 foreach 루프라고 하는 것과 동일한 새로운 형태의 for루프를 도입하여 주어진 범위의 배열이나 모음의 각 요소를 반복하게 했다.

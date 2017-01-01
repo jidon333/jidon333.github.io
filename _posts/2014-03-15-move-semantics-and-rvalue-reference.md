@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Move semantics and r-value reference(ko)
+title: Move semantics and r-value reference
 categories: C_CPP
 comments: true
+language: ko
 ---
 
 C++에서 도입된 새로운 특성 중 가장 중요한 것 중 하나로 Move Semantic을 손꼽을 수 있다.
