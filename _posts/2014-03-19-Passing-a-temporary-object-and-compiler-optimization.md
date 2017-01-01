@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passing a temporary object and compiler optimization
+title: 임시객체 전달과 컴파일러 최적화
 categories: C_CPP
 comments: true
 language: ko

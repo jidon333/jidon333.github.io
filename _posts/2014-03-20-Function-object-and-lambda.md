@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Function object and lambda
+title: 함수 객체와 람다
 categories: C_CPP
 comments: true
 language: ko
