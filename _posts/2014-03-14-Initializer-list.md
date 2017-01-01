@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++11 Initializer list
+title: C++11 Initializer list(ko)
 categories: C_CPP
 comments: true
 ---

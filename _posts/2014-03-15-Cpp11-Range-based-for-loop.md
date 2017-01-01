@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++11 Range based for loop
+title: C++11 Range based for loop(ko)
 categories: C_CPP
 comments: true
 ---

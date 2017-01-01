@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Move semantics and r-value reference
+title: Move semantics and r-value reference(ko)
 categories: C_CPP
 comments: true
 ---
