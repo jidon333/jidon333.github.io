@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quaternion 개념 정리-part3(쿼터니언을 이용한 회전)
+title: Quaternion 개념 정리-part4(쿼터니언을 이용한 회전)
 categories: Math
 comments: true
 language: ko
