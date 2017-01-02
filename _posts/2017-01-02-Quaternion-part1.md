@@ -75,11 +75,12 @@ ex)  ![](/assets/img/QuaternionPart1/ex4.jpg)
 
 루트를 씌워주면 ![](/assets/img/QuaternionPart1/ex6.jpg) 이고, 이는 벡터의 길이입니다.
 
-따라서![](/assets/img/QuaternionPart1/ex8.jpg) ![](/assets/img/QuaternionPart1/ex7.jpg) 이고, 이는 복소수의 크기가 됩니다!!
+따라서![](/assets/img/QuaternionPart1/ex8.jpg)![](/assets/img/QuaternionPart1/ex6.jpg) 이고, 이는 복소수의 크기가 됩니다!!
 
 #### Inverse
 
 z != 0일 때 inverse는 1/z 즉 ![](/assets/img/QuaternionPart1/ex9.jpg)입니다. 이건 1/z의 값은 분자 분모에 켤례 ![](/assets/img/QuaternionPart1/ex10.jpg)를 곱하면 쉽게 계산 가능합니다.
-![](/assets/img/QuaternionPart1/ex11.jpg)
+
+![](/assets/img/QuaternionPart1/ex12.jpg)
 
 이번 포스팅은 여기까지입니다. 다음 포스팅에서는 본격적인 사원수에 관한 내용을 정리하도록 하겠습니다.
