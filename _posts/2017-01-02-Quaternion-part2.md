@@ -21,7 +21,7 @@ language: ko
 
 
 그림에서와 같이 quaternion는 일종의 벡터로써 표현되며,   
-3개 부분은 허수부(imaginary part) 나머지 부분은 실수부(mistake part real part)라고 불립니다.
+3개 부분은 허수부(imaginary part) 나머지 부분은 실수부(~~mistake part~~ real part)라고 불립니다.
 
 
 허수부는 ![](/assets/img/QuaternionPart2/qv.jpg)와 같이 종종 줄여쓰므로 쿼터니온은 (Qv, Qw)와 같이 표현하기도 합니다.
