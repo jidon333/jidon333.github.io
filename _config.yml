@@ -25,6 +25,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+url: https://jidon333.github.io
 
 # Google
 google-analytics:
