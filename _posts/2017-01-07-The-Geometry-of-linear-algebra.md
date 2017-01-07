@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Geometry of linear algebra
-categories: Math
+categories: Linear_Algebra
 comments: true
 language: en
 ---
