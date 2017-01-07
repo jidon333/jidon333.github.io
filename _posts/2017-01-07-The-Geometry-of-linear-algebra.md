@@ -57,7 +57,7 @@ And it's the most fundamental operation.
 Okay. Now what's the picture of this operation? As geometry side.
 
 
-![](/assets/img/linear0/Lec1_pic4.jpg)  
+![](/assets/img/linear0/Lec1_4.jpg)  
 **[pic4]**
 
 Here's just two vectors. Column 1 and column 2.  
@@ -65,7 +65,7 @@ And here's the numbers(1,2) for x, y which we've already got in the picture 2.
 Let's just multiply the answer to the columns.
 
 
-![](/assets/img/linear0/Lec1_pic5.jpg)  
+![](/assets/img/linear0/Lec1_5.jpg)  
 **[pic5]**
 
 As a result of vector add operation, we've got the new vector 0, 3.
@@ -73,19 +73,19 @@ As a result of vector add operation, we've got the new vector 0, 3.
 New Let's see the result of 3-dimension equations.
 
 
-![](/assets/img/linear0/Lec1_pic6.jpg)  
+![](/assets/img/linear0/Lec1_6.jpg)  
 **[pic6]**
 
 If I draw this equations, It would be like this. (Not exactly, but anyway each plane will contain the points. And there would be some point each point of plane is met. If there exists the answer.)
 
 
-![](/assets/img/linear0/Lec1_pic7.jpg)  
+![](/assets/img/linear0/Lec1_7.jpg)  
 **[pic7]**
 
 Now let's see the combination of columns, which I've mentioned before.
 
 
-![](/assets/img/linear0/Lec1_pic8.jpg)  
+![](/assets/img/linear0/Lec1_8.jpg)  
 **[pic8]**
 
 We would get the answer of b(0 -1 4 ) from the column combinations. In this case, x =0, y =0, z=1.  
@@ -102,7 +102,7 @@ In summary, What is the multiply a matrix and a vector in Ax = b?
 It's a combination of columns!
 
 
-![](/assets/img/linear0/Lec1_pic9.jpg)  
+![](/assets/img/linear0/Lec1_9.jpg)  
 **[pic9]**
 
 
