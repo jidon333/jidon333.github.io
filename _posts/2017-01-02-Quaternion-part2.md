@@ -29,7 +29,7 @@ language: ko
 이 때 허수부분에는 아주 중요한 특징이 있습니다. 두 개의 허수단위가 곱해지면 **순환치환(Cycle permutation)**의 특징을 갖습니다.
 
 
-![](/assets/img/QuaternionPart2/quaternion_3.jpg)
+![](/assets/img/QuaternionPart2/Fix3.png)
 
 [그림2]
 
