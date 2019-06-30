@@ -2,6 +2,9 @@
 layout: about
 ---
 
+
+![](/assets/img/ThinkingCat.jpg)
+
 Hello.
 
 Here's my github: [Github](https://github.com/jidon333).  

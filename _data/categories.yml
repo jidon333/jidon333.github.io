@@ -22,6 +22,10 @@
   cate: Dev_Tips
   url: /PostCategories/DevTips
 
+- name: OS
+  cate: OS
+  url: /PostCategories/OS
+
 - name: Etc
   cate: Etc
   url: /PostCategories/Etc
